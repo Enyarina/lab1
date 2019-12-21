@@ -1,4 +1,4 @@
-// Copyright 2019 Kirill <your_email>
+// Copyright 2019 Enyarina <your_email>
 #include "header.hpp"
 // Constructor from a string containing Json data.
 Json::Json(const string& s)
